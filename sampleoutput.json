@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Vladimir Kara-Murza: Putin opponent in isolation cell in Siberian jail",
+            "description": "Vladimir Kara-Murza's lawyer said conditions at Osmk penal colony threatened his client's health.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66907510",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/150D0/production/_131242268_785bdd25f02b13e0dcb24643933cf61be78e736e0_0_3953_26811000x678.jpg",
+            "publishedAt": "2023-09-24T16:07:18.2401234Z",
+            "content": "Jailed Russian opposition activist Vladimir Kara-Murza has been moved to a maximum-security prison in Siberia, several weeks after he was taken from a Moscow detention centre. \r\nHe was placed in an i… [+1457 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Man gored to death by bull at Spanish festival",
+            "description": "Friend also injured by same animal during the Pobla de Farnals festival in the Valencia region.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66905583",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/252A/production/_131241590_bfb5bb07a2a88ee6244bd764de7bf873521f02ea0_136_3000_16871000x563.jpg",
+            "publishedAt": "2023-09-24T14:52:20.4290517Z",
+            "content": "A man has died and his friend has been injured during a bull-running festival in eastern in Spain, authorities say.\r\nThe man, 61, was gored in his side during the event in the town of Pobla de Farnal… [+736 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Biles responds to video of black girl not given medal",
+            "description": "The Olympic champion says \"there is no room for racism in any sport\" after footage from Ireland went viral.",
+            "url": "http://www.bbc.co.uk/sport/gymnastics/66897838",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/12CF3/production/_131234077_biles.jpg",
+            "publishedAt": "2023-09-24T14:37:21.9749744Z",
+            "content": "Simone Biles has won 25 World Championship medals in a remarkable career in gymnastics\r\nFour-time Olympic champion Simone Biles says \"there is no room for racism in any sport\" after a video went vira… [+1954 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nagorno-Karabakh: Ethnic Armenians leave amid cleansing fear",
+            "description": "Azerbaijan captured the area in a flash operation and says it wants to integrate its ethnic Armenians.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66905581",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/116EC/production/_131240417_29aa3513fdf631c973c83a953556180941910b420_72_2082_11711000x563.jpg",
+            "publishedAt": "2023-09-24T12:22:18.0533121Z",
+            "content": "The first group of ethnic Armenians from Nagorno-Karabakh have arrived in Armenia, days after the enclave was seized by Azerbaijan.\r\nThey entered shortly after local officials announced plans to move… [+2965 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Osiris-Rex: Nasa asteroid dust probe to return to Earth after seven years",
+            "description": "Scientists believe that material gathered from a space rock called Bennu could explain how life began on our planet.",
+            "url": "http://www.bbc.co.uk/news/live/science-environment-66881285",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-09-24T11:52:20.3341246Z",
+            "content": "The Osiris-Rex capsule blasted off from Earth in 2016, arriving at Bennu - the asteroid - millions of miles later to collect pieces of dust and rock from its surface.\r\nIt then embarked on the long tw… [+413 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "South China Sea: Philippines says Beijing installed floating barrier in contested area",
+            "description": "The Philippines says the barrier prevents fishermen from entering a shoal in the South China Sea.",
+            "url": "http://www.bbc.co.uk/news/world-asia-66905093",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/49CD/production/_131239881_d7294094cb4317256abd238af7ce26fb00210ca2.jpg",
+            "publishedAt": "2023-09-24T11:37:18.45877Z",
+            "content": "The Philippines has accused China of installing a \"floating barrier\" to stop fishing boats from entering a disputed area in the South China Sea.\r\nThe Philippines' coast guard said the 300m (1,000ft) … [+2415 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Assefa smashes women's marathon world record",
+            "description": "Ethiopia's Tigist Assefa breaks the women's marathon world record as she wins Sunday's race in Berlin.",
+            "url": "http://www.bbc.co.uk/sport/athletics/66905203",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+            "publishedAt": "2023-09-24T09:52:16.9743486Z",
+            "content": "Ethiopia's Tigist Assefa broke the women's marathon world record as she won Sunday's race in Berlin.\r\nThe 29-year-old, who also won last year's race, crossed the line in a time of two hours, 11 minut… [+262 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kosovo police officer killed in shooting blamed on Serbia",
+            "description": "The incident near the border with Serbia comes amid tensions in areas inhabited by minority Serbs.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66905091",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15755/production/_131239878_d6adca73d5808f0db98224a98fca1f4363f764f20_647_4168_23451000x563.jpg",
+            "publishedAt": "2023-09-24T08:22:16.7244314Z",
+            "content": "A police officer has been killed and another injured in a shooting in area of Kosovo near Serbia.\r\nKosovo Prime Minister Albin Kurti said the attack in the northern village of Banjska in Leposavic in… [+2134 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Trudeau facing cold reality after lonely week on world stage",
+            "description": "As tensions with India rise, Canada is calling its friends - but they're not answering.",
+            "url": "http://www.bbc.co.uk/news/in-pictures-66885924",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13E7C/production/_131223518_881bee830c6a453a637ca4ea776e7ebc5c887275.jpg",
+            "publishedAt": "2023-09-24T07:52:16.1632527Z",
+            "content": "Media caption, Trudeau: We are not looking to 'provoke' India\r\nThis week in New York, as he listened to questions from reporters, Canadian Prime Minister Justin Trudeau's reliable smile began to fade… [+6197 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "AI-generated naked child images shock Spanish town of Almendralejo",
+            "description": "More than 20 Spanish girls in the small town of Almendralejo have so far come forward as victims.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66877718",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3DCF/production/_131232851_almendralejogemalorenzo.jpg",
+            "publishedAt": "2023-09-23T23:22:13.4276236Z",
+            "content": "A sleepy town in southern Spain is in shock after it emerged that AI-generated naked images of young local girls had been circulating on social media without their knowledge.\r\nThe pictures were creat… [+4768 chars]"
+        }
+    ]
+}
